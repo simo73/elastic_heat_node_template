@@ -1,0 +1,1 @@
+# elastic_heat_node_template
