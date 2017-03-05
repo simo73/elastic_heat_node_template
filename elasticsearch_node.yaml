@@ -1,4 +1,4 @@
-heat_template_version: 2017-03-03
+heat_template_version: 2016-10-14
 
 description: |
   This is a Heat template to deploy a single Linux server running elasticsearch.
